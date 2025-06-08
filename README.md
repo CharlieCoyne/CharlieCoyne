@@ -1,5 +1,4 @@
 -  Hi, I’m @CharlieCoyne
--  I’m interested in learning new programming languages, machine learning and AI
 -  I’m currently learning Python and Java
 
 <!---
