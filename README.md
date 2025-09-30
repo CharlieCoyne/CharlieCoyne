@@ -1,1 +1,1 @@
-Student at York University studying Computer Science
+Student at the University of York studying Computer Science
